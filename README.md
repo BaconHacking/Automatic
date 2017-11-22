@@ -8,3 +8,4 @@ Este script foi desenvolvido para fins educacionais!
 
 Feito em shell script.
 
+![alt text](https://github.com/BaconHacking/Automatic/blob/master/automatic.png)
