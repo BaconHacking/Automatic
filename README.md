@@ -7,4 +7,4 @@ Este script foi desenvolvido para fins educacionais!
 
 
 Feito em shell script.
-automatic.png
+
