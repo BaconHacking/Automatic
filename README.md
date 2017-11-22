@@ -11,6 +11,11 @@ Feito em shell script.
 ![alt text](https://github.com/BaconHacking/Automatic/blob/master/automatic.png)
 
 
+Não se esqueça de dar permissões para executar o script
+
+chmod +x automatic.sh
+
+
 
 Requisitos:
 
